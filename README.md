@@ -30,3 +30,9 @@ Part 1 very easy.
 
 Part 2 found a solution very easily, but it was not working because the input number are too big.
 Worked on a second solution, took me a while to get it right. 
+
+## Day 5
+
+Part 1 very easy.
+
+Part 2 easy. I did thousands of algos like this in school :)
