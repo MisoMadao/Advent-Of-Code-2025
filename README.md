@@ -23,3 +23,10 @@ Part 2 easy algorithm but took me some time to get the correct sub lists with th
 Part 1 very easy, had fun.
 
 Part 2 too easy! Adds nothing to the first part in terms of complexity.
+
+## Day 5
+
+Part 1 very easy.
+
+Part 2 found a solution very easily, but it was not working because the input number are too big.
+Worked on a second solution, took me a while to get it right. 
